@@ -13,9 +13,9 @@ Semestre: 8vo
 Profesor: Dante Adolfo Muñoz Quintero
 
 Integrantes del equipo:
-Antonio Guzman Iris Lucero
-Saldaña Sanchez Carlos Alfonso 
-Duran Lugo Jesus Antonio 
+Antonio Guzman Iris Lucero,
+Saldaña Sanchez Carlos Alfonso,
+Duran Lugo Jesus Antonio,
 Segura Alonso Adrian
 
 
